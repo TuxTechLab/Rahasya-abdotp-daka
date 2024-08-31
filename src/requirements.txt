@@ -1,0 +1,12 @@
+# Python3 dependencies for the project.
+# Use the below command to install the packages.
+# `python3 -m pip install -r requirements.txt`
+
+argparse>=1.4.0
+python-dotenv>=1.0.1
+requests>=2.32.3
+yaspin>=3.0.2
+typer>=0.12.5
+random2>=1.0.2
+black>=24.8.0
+unittest2>=1.1.0
